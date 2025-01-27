@@ -1,4 +1,4 @@
-# Trending Products on E-commerce Website
+# Trending Products on E-Commerce Website
 
 ## Project Overview
 
