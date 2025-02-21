@@ -64,7 +64,7 @@ Ensure Python is installed on your machine.
 
     Execute the script to scrape data from Amazon.
     ```bash
-    python scripts/scraper.py
+    python src/scraper.py
     ```
 - The scraped data will be saved as ``data/Amazon Best Sellers.csv``.
 5. **Process the Data**
