@@ -73,7 +73,17 @@ Ensure Python is installed on your machine.
 
 - The cleaned data will be saved as ``data/Preprocessed Amazon Best Sellers.csv``.
 
-## Additional Resources
-**Tableau Dashboard**: For detailed visualizations, visit the [Dashboard](https://public.tableau.com/app/profile/mominur.rahman/viz/TrendingProductsonE-CommerceWebsite/Dashboard).
+## 📜 License
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
 
-**Author**: [Mominur Rahman](https://mominur.dev/)
+## 🛠️ Contributions
+We welcome contributions! Feel free to fork the repository and submit a pull request.
+
+## 📩 Contact
+For any inquiries or collaborations:
+- **Portfolio:** [mominur.dev](https://mominur.dev)
+- **GitHub:** [github.com/mominurr](https://github.com/mominurr)
+- **LinkedIn:** [linkedin.com/in/mominur--rahman](https://www.linkedin.com/in/mominur--rahman/)
+- **Email:** mominurr518@gmail.com
+
+🚀 **Star this repo** ⭐ if you find it useful!
