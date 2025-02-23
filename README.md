@@ -31,7 +31,8 @@ This project focuses on extracting and analyzing data from the [Amazon Best Sell
    - A geographical analysis highlights the number of distinct brands across countries.  
    - For instance, China has 126 distinct brands, the highest among all countries.
 
-### Tableau Public Dashboard
+## Tableau Public Dashboard
+<br/><a href="https://public.tableau.com/app/profile/mominur.rahman/viz/TrendingProductsonE-CommerceWebsite/Dashboard" target="_blank"><img src="image/dashboard.png"></a><br/>
 
 For an interactive visualization of the findings, please visit the [Tableau Dashboard](https://public.tableau.com/app/profile/mominur.rahman/viz/TrendingProductsonE-CommerceWebsite/Dashboard).
 
